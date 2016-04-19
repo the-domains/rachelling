@@ -1,7 +1,7 @@
 name: rachelling
 favicon: null
 layout_spectrum: 0.6334907114505768
-typography_spectrum: 0.839802848175168
+typography_spectrum: 0.86644
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ca8a8b'
+    - '#eed6bc'
+    - '#51282e'
+    - '#844349'
+    - '#7d6f34'
   brandStrength: 0.731739736860618
   lightness: 0.4172307460103184
   saturation: 0.697201797971502
